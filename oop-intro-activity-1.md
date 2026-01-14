@@ -1,6 +1,5 @@
 # Class
-Computer peripherals
-
+Computer type
 
 # Properties
 -output
@@ -12,5 +11,5 @@ Computer peripherals
 -input:Microphone
 
 # Object 2
--output:Keyboards
--input:Printer
+-output:Printer
+-input:Keyboard
